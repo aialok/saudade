@@ -1,0 +1,22 @@
+{
+  "name": "Sample Crush (example)",
+  "slug": "example_sample_crush",
+  "created_at": "2026-03-31T00:00:00Z",
+  "updated_at": "2026-03-31T00:00:00Z",
+  "version": "v1",
+  "profile": {
+    "duration": "known each other for 3 years",
+    "how_met": "college",
+    "relationship_status": "currently in talking stage",
+    "occupation": "student",
+    "gender": "female",
+    "mbti": ""
+  },
+  "tags": {
+    "personality": ["kind", "supportive", "practical", "soft-spoken"],
+    "attachment": ""
+  },
+  "impression": "Warm, caring, and practical in day-to-day conversations",
+  "knowledge_sources": [],
+  "corrections_count": 0
+}

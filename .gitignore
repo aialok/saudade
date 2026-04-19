@@ -1,0 +1,28 @@
+# Generated crush Skills (keep only the example)
+crushes/*/
+!crushes/example_sample_crush/
+
+# User chat data
+data/chats/*
+!data/chats/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Temp files
+/tmp/
+*.tmp

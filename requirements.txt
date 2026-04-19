@@ -1,0 +1,3 @@
+
+# Optional: Better EXIF support for more image formats (HEIC, TIFF, etc.)
+# Pillow>=10.0.0
